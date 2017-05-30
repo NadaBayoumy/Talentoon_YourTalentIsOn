@@ -1,0 +1,17 @@
+/node_modules
+/public/uploads
+/public/app/node_modules
+/public/hot
+/public/storage
+/public/AdminLTE-2.3.6
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
+/talentoon/composer.json
+/talentoon/composer.lock
+/talentoon/config/app.php
